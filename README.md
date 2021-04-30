@@ -1,4 +1,13 @@
-# vue-model-ways-vue2
+# VueJS - Different ways to implement v-model (Vue 2)
+
+Sourced from: [Dev Blog](https://dev.to/vcpablo/vuejs-2-different-ways-to-implement-v-model-1mjf)
+
+Also see: [vcpablo - github](https://github.com/vcpablo/vuejs-v-model)
+
+Hosted here: https://v-model-different-ways.netlify.app/
+
+
+
 
 ## Project setup
 ```
@@ -14,11 +23,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
